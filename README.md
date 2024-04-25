@@ -1,2 +1,3 @@
-# CSEL-302
-sample repository compilation for CSEL 302
+**Introduction**
+
+Welcome to my compilation of activities in CSEl - 302.
