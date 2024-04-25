@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This subject course, entitled CSEL 302: Introduction to Intelligent Systems, consists of a compilation of my activities. Thus, this subject introduces students to core concepts in machine learning, artificial intelligence, and data analysis. Its objectives include fostering the ability to design intelligent systems and critically evaluate their impact on society and ethical considerations.
+This subject course, entitled CSEL 302: Introduction to Intelligent Systems, consists of the compilation of my activities. Thus, this subject introduces students to core concepts in machine learning, artificial intelligence, and data analysis. Its objectives include fostering the ability to design intelligent systems and critically evaluate their impact on society and ethical considerations.
 
 ###  Topics Discussed
 1. [Linear Regression](#linear-regression)
