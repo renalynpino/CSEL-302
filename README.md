@@ -6,6 +6,6 @@ Welcome to my compilation of activities in CSEl - 302. This subject course entit
 
 **Table of Contents**
 
-<a href="2A_PINO_EXER4.ipynb/README.md"></a>
+<a href="2A_PINO_EXER4.ipynb/README.md">2A_PINO_EXER4</a>
 
 
