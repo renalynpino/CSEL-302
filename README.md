@@ -14,6 +14,6 @@ Welcome to my compilation of activities in CSEl - 302. This subject course entit
 
 <a href="2A_PINO_EXER7.ipynb">Exercise 7</a>
 
-<a href="2A_PINO_EXER5.ipynb">Midterms Activity</a>
+<a href="2A_PINO_MIDTERM.ipynb">Midterms Activity</a>
 
 
