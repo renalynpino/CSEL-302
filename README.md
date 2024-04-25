@@ -1,4 +1,5 @@
 # Activities Compilation
+### by Renalyn N. Pino
 
 ### Introduction
 
