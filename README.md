@@ -21,6 +21,7 @@ Welcome to my compilation of activities in CSEl - 302. This subject course entit
 <a href="2A_PINO_MIDTERM.ipynb">Midterms Activity</a>
 
 **Exercise 4 - Linear Regression**
-tites malaki ni jc bayag lawlaw
+
+Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
 
 
