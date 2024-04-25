@@ -7,7 +7,7 @@ Welcome to my compilation of activities in CSEl - 302. This subject course entit
 ###  Topics Discussed
 1. [Linear Regression](#linear-regression)
 2. [Logistic Regression](#logistic-regression)
-3. [Comparison and Selection](#model-comparison-and-selection)
+3. [Model Comparison and Selection](#model-comparison-and-selection)
 4. [Conclusion](#conclusion)
 
 ### Compiled Activities
