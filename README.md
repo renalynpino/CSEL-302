@@ -2,12 +2,13 @@
 
 ### Introduction
 
-Welcome to my compilation of activities in CSEl - 302. This subject course entitled "Introduction to Intelligent Systems" course introduces students to core concepts in machine learning, artificial intelligence, and data analysis. Its objectives include fostering the ability to design intelligent systems and critically evaluate their impact on society and ethical considerations.
+Welcome to my compilation of activities in CSEl - 302. This subject course entitled "Introduction to Intelligent Systems" or CSEL 302 course introduces students to core concepts in machine learning, artificial intelligence, and data analysis. Its objectives include fostering the ability to design intelligent systems and critically evaluate their impact on society and ethical considerations.
 
 ###  Topics Discussed
 1. [Linear Regression](#linear-regression)
 2. [Logistic Regression](#logistic-regression)
 3. [Comparison and Selection](#model-comparison-and-selection)
+4. [Conclusion](#conclusion)
 
 ### Compiled Activities
 
@@ -34,7 +35,8 @@ Logistic regression is a statistical method used for binary classification tasks
 
 Linear Regression is great for predicting continuous values such as house prices or temperature. It is evaluated using metrics like Mean Squared Error (MSE) or R-squared Score. On the other hand, Logistic Regression is perfect for binary classification tasks like spam detection or medical diagnosis. It is assessed using metrics such as accuracy, precision, recall, and F1-score. Each model is suitable for different prediction problems based on the type of outcome variable: linear for continuous outcomes and logistic for binary outcomes.
 
-
+## Conclusion
+This webpage consists the activities and knowledge we had during the midterm semester of year 2023-2024. Thus, studying the subject of "CSEL 302 - Introduction to Intelligent Systems" has served as a tool getting into the world of AI and data analysis using Python in Google Colab. I've learned how to tackle real-world problems like predicting outcomes and understanding trends through linear and logistic regression, which feels like stepping into the future of technology right from my computer devices.
 
 
 
